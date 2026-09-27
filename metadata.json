@@ -1,0 +1,6 @@
+{
+  "name": "بداية فقيه - Bidayat Faqih",
+  "description": "منصة تعليمية تفاعلية للناشئة لتعلم فقه الطهارة والعلوم الشرعية عبر رحلة تعلم متدرجة ومحرك اختبارات ذكي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
